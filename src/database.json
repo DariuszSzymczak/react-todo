@@ -1,0 +1,61 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "text": "visual front end scheme",
+      "checked": true,
+      "visible": true,
+      "tasks": [
+        {
+          "id": 1,
+          "text": "show tasks from json passed in prop",
+          "checked": true
+        },
+        {
+          "id": 2,
+          "text": "modules that toogle tasks after click",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Add, edit, delete",
+      "checked": true,
+      "visible": true,
+      "tasks": [
+        { "id": 1, "text": "new module button ", "checked": true },
+        {
+          "id": 2,
+          "text": "edit button, delete button show on element i clicked",
+          "checked": false
+        },
+        {
+          "id": 3,
+          "text": "color of clicked element changed",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Redux",
+      "checked": false,
+      "visible": true,
+      "tasks": [
+        { "id": 1, "text": "store all states in store", "checked": true },
+        { "id": 2, "text": "store theme in store to compare", "checked": true }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "node.js",
+      "checked": true,
+      "visible": true,
+      "tasks": [
+        { "id": 1, "text": "database with graphql", "checked": false },
+        { "id": 2, "text": "docker", "checked": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+visual front end scheme, modules and tasks, add edit and delete, database
+
+1. visual front-end scheme
+    a) show tasks from json passed in prop
+    b) modules that toogle tasks after click
+    
+2. Add, edit, delete
+    a) new module button 
+    b) edit button, delete button show on element i clicked
+    c) color of clicked element changed 
+
+3. Redux
+    a) store all states in store
+    b) store theme in store to compare
+
+4. node.js 
+    a) database with graphql 
+    b) docker
+
